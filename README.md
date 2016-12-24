@@ -29,3 +29,7 @@ Of course if your precondition takes longer than your logic, you're going in the
 ### Function name conventions
 
 Always try to find function names that automatically relay the purpose of your code. Another programmer should be able to understand your logic just by looking at your function names.
+
+### Commenting
+
+Every logic that is greater than 2 lines requires a comment. Of course this is just the thumb rule, in reality you will have to be the judge. Allow comments to be wrapped text, another programmer should not scroll horizontally just to read your comment. Write in clear and simple language.
